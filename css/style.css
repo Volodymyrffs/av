@@ -307,6 +307,8 @@ button {
     padding: 0px;
     list-style: none;
     display: inline-flex;
+    background-color: #000d10;
+    border-radius: 30px;
 }
 
 .menu_main li {
